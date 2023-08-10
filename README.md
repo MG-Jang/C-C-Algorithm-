@@ -1,1 +1,1 @@
-# C-C-Algorithm-
+# C++ lgorithm 정리
