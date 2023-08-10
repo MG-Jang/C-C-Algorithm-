@@ -1,1 +1,1 @@
-# C++ lgorithm 정리
+# C++ Algorithm 정리
